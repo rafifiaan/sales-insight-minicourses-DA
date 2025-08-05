@@ -60,5 +60,11 @@ The dataset contains historical sales records with the following columns:
 
 ---
 
+## Overview Results
+
+![Overview](/Overview%20Results.jpg)
+
+---
+
 > Rafi Aliefian Putra Ramadhani  
 > Mini Course Project RevoU – July 2025
