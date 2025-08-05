@@ -1,6 +1,8 @@
 # 📊 Sales Insight - Mini Course (Data Analysis)
 
-This project is part of a data analytics mini-course. It focuses on **exploratory data analysis (EDA)** of a company's sales dataset, including data cleaning, visualization, and deriving insights related to order volume, product categories, customer segments, and sales performance.
+This project is part of a data analytics mini-course. It focuses on Exploratory Data Analysis (EDA) of a company's product sales dataset, including data cleaning, visualization, and deriving insights related to order volume, product categories, customer segments, and sales performance.
+
+In addition to standard charts and summary insights, this notebook also includes a simple interactive dashboard built using Jupyter Notebook widgets. The dashboard allows users to dynamically filter sales data by deal size and instantly view changes across multiple visualizations (bar chart, line chart, and pie chart) — all within the notebook environment.
 
 ## ❓ Problem Statements
 
